@@ -6,6 +6,7 @@ body{
 /*	font-family: 'Montserrat', sans-serif;
 	font-family: 'Open Sans', sans-serif;*/
 	font-family: 'Ubuntu', sans-serif;
+	overflow-x: hidden;
 }
 
 div, p, input, button, form, span, a, ul, li{

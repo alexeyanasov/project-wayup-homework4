@@ -42,10 +42,11 @@ h1, h2, h3, h4, h5, h6{
 .wrapper{
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 }
 
 .header__offer{
-	margin-top: 137px;
+	/*margin-top: 137px;*/
 }
 
 .header__title{
@@ -84,7 +85,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .header__travel{
-	padding-bottom: 80px;
+	/*padding-bottom: 80px;*/
 }
 
 .section__title{
@@ -179,6 +180,8 @@ h1, h2, h3, h4, h5, h6{
 
 .footer{
 	background-color: #164d7a;
+	padding-top: 57px;
+    padding-bottom: 62px;
 }
 
 .credits{
@@ -187,7 +190,5 @@ h1, h2, h3, h4, h5, h6{
 	font-size: 14px;
 	font-weight: normal;
 	color: #fff;
-	padding-top: 57px;
-    padding-bottom: 62px;
     text-align: center;
 }
